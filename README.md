@@ -3,7 +3,7 @@
 
 ## Contact Information
 
-I am currently a lecturer in Zhongnan University of Ecomonics and Law, Wuhan, China. 
+I am currently an assistant professor in Zhongnan University of Ecomonics and Law, Wuhan, China. 
 
 Email: yulinhou6@yahoo.com
 
