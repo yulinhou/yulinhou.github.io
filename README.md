@@ -13,4 +13,4 @@ Email: yulinhou6@yahoo.com
 
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=cuCTM20jynqSq155rdbSfg5wDMAa67tFVI5RRAdWpro"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=cuCTM20jynqSq155rdbSfg5wDMAa67tFVI5RRAdWpro&cl=ffffff&w=a"></script>
